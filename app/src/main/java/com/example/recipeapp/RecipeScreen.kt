@@ -53,7 +53,7 @@ import kotlin.random.Random
 
 val colorlist = arrayOf(
     0XFFff9b9b,
-   // 0XFFfbc3b0,
+   0XFFfbc3b0,
    // 0XFFecc9c9,
     //0XFFe5a3a3,
     0XFFaaaaaa)
